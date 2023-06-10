@@ -9,7 +9,7 @@
 - [ ] how generate interface Models ?
 - [ ] fix ts.config details, so next.config too
 - [ ] add `React Server Component`
-- [ ] get Data from `GraphQL` in use `Partial hydration`
+- [ ] get Data from `GraphQL` in use `Partial Hydration`
   - example, from SpringBoot
 
 ## Install packages (yarn workspaces)
