@@ -8,7 +8,8 @@
 - [ ] fix JavaScript codes to TypeScript
 - [ ] fix ts.config details
 - [ ] add `React Server Component`
-- [ ] get Data from GraphQL in use Partial hydration
+- [ ] get Data from `GraphQL` in use `Partial hydration`
+  - example, from SpringBoot
 
 ## Install packages (yarn workspaces)
 
@@ -21,7 +22,7 @@ make auto-clean
 
 # when dependencies are broken (keep cache)
 make auto-clean-hard
-dc
+
 # when dependencies are broken (purge cache)
 make auto-clean-omega
 ```
