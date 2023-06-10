@@ -6,7 +6,8 @@
 ## ToDo
 - [ ] modify `yarn workpspaces` to `pnpm workspaces`
 - [ ] fix JavaScript codes to TypeScript
-- [ ] fix ts.config details
+- [ ] how generate interface Models ?
+- [ ] fix ts.config details, so next.config too
 - [ ] add `React Server Component`
 - [ ] get Data from `GraphQL` in use `Partial hydration`
   - example, from SpringBoot
