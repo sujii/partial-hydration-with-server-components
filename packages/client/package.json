@@ -1,0 +1,9 @@
+{
+  "name": "@sujii/partial-hydration-with-server-components-client",
+  "version": "1.0.0",
+  "description": "client of partial-hydration-with-server-components",
+  "main": "index.js",
+  "author": "Susumu Fujii",
+  "license": "MIT",
+  "private": true
+}
