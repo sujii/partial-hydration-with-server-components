@@ -1,8 +1,21 @@
 {
   "name": "@sujii/partial-hydration-with-server-components",
-  "description": "Personal-Testing: React/Next - partial-hydration-with-server-components",
   "version": "0.0.1",
-  "author": "Susumu Fujii",
+  "description": "Personal-Testing: React/Next - partial-hydration-with-server-components",
+  "license": "MIT",
+  "author": {
+    "name": "Susumu Fujii",
+    "email": "powermac.g7@gmail.com",
+    "twitter": "@sujii"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujii/partial-hydration-with-server-components"
+  },
+  "scripts": {
+    "client": "yarn workspace @sujii/partial-hydration-with-server-components-client",
+    "server": "yarn workspace @sujii/partial-hydration-with-server-components-server"
+  },
   "dependencies": {
     "@sujii/partial-hydration-with-server-components-client": "*",
     "@sujii/partial-hydration-with-server-components-server": "*"
@@ -35,27 +48,17 @@
     "node": ">=18.16.0",
     "yarn": ">=1.22.19"
   },
+  "private": true,
   "husky": {
     "hooks": {
       "preinstall": "npx -y only-allow yarn",
       "pre-commit": "lint-staged"
     }
   },
-  "license": "MIT",
   "lint-staged": [
     "yarn exec lint-staged --concurrent false -c lint-staged.mjs",
     "yarn fixpack"
   ],
-  "maintainers": [],
-  "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sujii/partial-hydration-with-server-components"
-  },
-  "scripts": {
-    "client": "yarn workspace @sujii/partial-hydration-with-server-components-client",
-    "server": "yarn workspace @sujii/partial-hydration-with-server-components-server"
-  },
   "simple-git-hooks": {
     "pre-commit": "lint-staged"
   },

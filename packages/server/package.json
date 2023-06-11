@@ -2,8 +2,11 @@
   "name": "@sujii/partial-hydration-with-server-components-server",
   "version": "0.0.0",
   "description": "server of partial-hydration-with-server-components",
-  "main": "index.js",
-  "author": "Susumu Fujii",
+  "author": {
+    "name": "Susumu Fujii",
+    "email": "powermac.g7@gmail.com",
+    "twitter": "@sujii"
+  },
   "license": "MIT",
   "private": true
 }

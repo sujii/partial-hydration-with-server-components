@@ -2,6 +2,11 @@
   "name": "@sujii/partial-hydration-with-server-components-client",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Susumu Fujii",
+    "email": "powermac.g7@gmail.com",
+    "twitter": "@sujii"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
