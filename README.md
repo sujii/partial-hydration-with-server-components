@@ -3,6 +3,7 @@
 🛏️✨ for React-APP, API-less Client/Server Pertial-Hydration Architecture.
 
 ## References
+- [reactjs.org/server-components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
 - [server-components-demo](https://github.com/reactjs/server-components-demo)
 - [Build a Java Web Application Using GraphQL API and Spring Boot](https://www.contentstack.com/docs/developers/sample-apps/build-a-java-web-application-using-graphql-api-and-spring-boot/)
 - [Gatsby Concepts Partial Hydration](https://www.gatsbyjs.com/docs/conceptual/partial-hydration/)
