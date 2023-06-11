@@ -10,7 +10,7 @@
 
 ## ToDo
 - [ ] replace `yarn workpspaces` to `pnpm workspaces` (optional)
-- [ ] fix JavaScript codes to TypeScript
+- [x] fix JavaScript codes to TypeScript
   - [x] fix tsconfig.json
 - [ ] generate interface Models from [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator)
 - [x] fix ts.config details, so next.config too
