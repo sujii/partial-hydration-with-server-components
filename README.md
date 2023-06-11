@@ -9,7 +9,6 @@
 - [Next.js × Go × AWSでJWT認証付きGraphQLアプリとCI/CDを構築してみよう](https://qiita.com/WebEngrChild/items/d4bc23bf352e7aa46361)
 
 ## ToDo
-- [ ] replace `yarn workpspaces` to `pnpm workspaces` (optional)
 - [x] fix JavaScript codes to TypeScript
   - [x] fix tsconfig.json
 - [ ] generate interface Models from [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator)
@@ -18,6 +17,7 @@
 - [ ] get Data from `GraphQL` in use `Partial Hydration`
   - example, from `SpringBoot`
   - [ ] add sample SpringBoot APP as Submodule
+- [ ] (optional) replace `yarn workpspaces` to `pnpm workspaces`
 
 ## Install packages (setup yarn workspaces)
 
