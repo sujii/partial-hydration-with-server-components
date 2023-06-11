@@ -9,7 +9,7 @@
 - [Next.js × Go × AWSでJWT認証付きGraphQLアプリとCI/CDを構築してみよう](https://qiita.com/WebEngrChild/items/d4bc23bf352e7aa46361)
 
 ## ToDo
-- [ ] replace `yarn workpspaces` to `pnpm workspaces`
+- [ ] replace `yarn workpspaces` to `pnpm workspaces` (optional)
 - [ ] fix JavaScript codes to TypeScript
   - [x] fix tsconfig.json
 - [ ] generate interface Models from [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator)
@@ -35,11 +35,11 @@ make auto-clean-hard
 make auto-clean-omega
 ```
 
-## Getting Started /packages/web DEV
+## Getting Started /packages/client DEV
 
 ```fish
 # first, run the development server
-yarn web dev
+yarn client dev
 
 # to see the result with your browser
 open http://localhost:3000

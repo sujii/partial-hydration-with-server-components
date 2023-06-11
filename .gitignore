@@ -134,8 +134,8 @@ dist
 packages-cache
 
 # app
-!packages/web
-packages/web/node_modules
+!packages/client
+packages/client/node_modules
 
 # nodenv
 !.node-version
