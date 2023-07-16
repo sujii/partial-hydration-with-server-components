@@ -181,6 +181,6 @@
     "./.nuxt/dist"
   ],
   "files": [
-    "svg.d.ts"
+    "./.decleres/svg.d.ts"
   ]
 }
