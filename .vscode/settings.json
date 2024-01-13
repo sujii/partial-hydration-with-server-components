@@ -15,7 +15,7 @@
   "eslint.validate": ["javascript","typescript"],
   "prettier.enable": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false
+    "source.fixAll.eslint": "never"
   },
   "editor.formatOnSave": false,
   "git.autofetch": true,
