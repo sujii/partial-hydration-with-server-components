@@ -1,3 +1,5 @@
+## Archived experiment. No secrets, no production code, no maintained package.
+
 ## What aim for
 ### Repo of Template :
 🛏️✨ for React-APP, API-less Client/Server Pertial-Hydration Architecture.
